@@ -1,0 +1,46 @@
+.h_100{
+	height: 100px;
+}
+	.header{
+	
+	background-color: red;
+}
+.container{
+	overflow:hidden;
+}
+.blog{
+	float:left;
+	width: 70%;
+	height:100px;
+	background-color: yellow;
+}
+.contact{
+	float:left;
+	width: 30%;
+	height:100px;
+	background-color:green;
+}
+
+.item{
+	float: left;
+	width: 33.33%;
+	height:100px;
+	}
+	
+	.teal{
+		background-color: teal;
+	} 
+	.tomato{
+	 background-color: tomato;
+	}
+
+
+.blue{
+	background-color: blue;
+}	
+
+
+
+.footer{
+background-color: black;
+}
